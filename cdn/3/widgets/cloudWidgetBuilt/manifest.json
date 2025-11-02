@@ -1,0 +1,19 @@
+{
+  "name": "cloudWidgetBuilt",
+  "label": "Cloud Built",
+  "type": "widget",
+  "version": "1.0.2",
+  "exbVersion": "1.17.0",
+  "author": "Sven Jensen",
+  "description": "Allow user to save the extent of the map, layer(s) status, graphcis.. etc... Latest version includes allow user to skip enter email and enter key they already have, and change open draw popup video",
+  "copyright": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": "jimu-arcgis",
+  "defaultSize": {
+    "width": 600,
+    "height": 900
+  }
+}

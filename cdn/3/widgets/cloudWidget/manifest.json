@@ -1,0 +1,19 @@
+{
+  "name": "cloudWidget",
+  "label": "Cloud",
+  "type": "widget",
+  "version": "1.0.4",
+  "exbVersion": "1.17.0",
+  "author": "Sven Jensen",
+  "description": "Allow user to save the extent of the map, layer(s) status, graphcis.. etc... Latest version includes Filter setting support and sharing support",
+  "copyright": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": "jimu-arcgis",
+  "defaultSize": {
+    "width": 600,
+    "height": 900
+  }
+}
