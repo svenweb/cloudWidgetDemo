@@ -1,0 +1,19 @@
+{
+  "name": "cloudWidgetDemo",
+  "label": "Cloud Demo",
+  "type": "widget",
+  "version": "1.0.4",
+  "exbVersion": "1.17.0",
+  "author": "Sven Jensen",
+  "description": "Demo widget for the cloud",
+  "copyright": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": "jimu-arcgis",
+  "defaultSize": {
+    "width": 600,
+    "height": 900
+  }
+}
